@@ -54,8 +54,8 @@ def Google_Active():
 
 
 def Mail_Log():
-    email_address = "ratnodeepb@gmail.com"
-    PASSWORD = "williamsun"
+    email_address = ""
+    PASSWORD = ""
 
     msg = MIMEMultipart()
     msg['From'] = email_address
